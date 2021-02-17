@@ -1,0 +1,12 @@
+.boton {
+  width: 100%;
+  border-radius: 7px;
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.contador {
+  color: aliceblue;
+  font-weight: bold;
+}

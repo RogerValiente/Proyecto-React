@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(157, 158, 160) !important;
+}
+
+body h1 {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 5rem;
+  color: rgb(12, 12, 12);
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+}
+
+.menu {
+  background-color: rgb(12, 11, 11);
+}
