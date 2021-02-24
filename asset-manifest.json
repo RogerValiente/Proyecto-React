@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/RogerValiente/Proyecto-React/static/css/main.e977522a.chunk.css",
+    "main.js": "/RogerValiente/Proyecto-React/static/js/main.6ecd64d9.chunk.js",
+    "main.js.map": "/RogerValiente/Proyecto-React/static/js/main.6ecd64d9.chunk.js.map",
+    "runtime-main.js": "/RogerValiente/Proyecto-React/static/js/runtime-main.cf0a174f.js",
+    "runtime-main.js.map": "/RogerValiente/Proyecto-React/static/js/runtime-main.cf0a174f.js.map",
+    "static/css/2.150d169a.chunk.css": "/RogerValiente/Proyecto-React/static/css/2.150d169a.chunk.css",
+    "static/js/2.c5567300.chunk.js": "/RogerValiente/Proyecto-React/static/js/2.c5567300.chunk.js",
+    "static/js/2.c5567300.chunk.js.map": "/RogerValiente/Proyecto-React/static/js/2.c5567300.chunk.js.map",
+    "static/js/3.c67c93a7.chunk.js": "/RogerValiente/Proyecto-React/static/js/3.c67c93a7.chunk.js",
+    "static/js/3.c67c93a7.chunk.js.map": "/RogerValiente/Proyecto-React/static/js/3.c67c93a7.chunk.js.map",
+    "index.html": "/RogerValiente/Proyecto-React/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/RogerValiente/Proyecto-React/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.e977522a.chunk.css.map": "/RogerValiente/Proyecto-React/static/css/main.e977522a.chunk.css.map",
+    "static/js/2.c5567300.chunk.js.LICENSE.txt": "/RogerValiente/Proyecto-React/static/js/2.c5567300.chunk.js.LICENSE.txt",
+    "static/media/TortaFrutos.0d33a85c.jpg": "/RogerValiente/Proyecto-React/static/media/TortaFrutos.0d33a85c.jpg",
+    "static/media/caja1.f10d2d25.jpg": "/RogerValiente/Proyecto-React/static/media/caja1.f10d2d25.jpg",
+    "static/media/caja2.b33bcef4.jpg": "/RogerValiente/Proyecto-React/static/media/caja2.b33bcef4.jpg",
+    "static/media/caja3.490b176f.jpg": "/RogerValiente/Proyecto-React/static/media/caja3.490b176f.jpg",
+    "static/media/cart.f6cc872a.png": "/RogerValiente/Proyecto-React/static/media/cart.f6cc872a.png",
+    "static/media/charlotte.7ab9dec4.jpg": "/RogerValiente/Proyecto-React/static/media/charlotte.7ab9dec4.jpg",
+    "static/media/cupcakes.42ca6051.jpg": "/RogerValiente/Proyecto-React/static/media/cupcakes.42ca6051.jpg",
+    "static/media/detalles.4db1272c.jpg": "/RogerValiente/Proyecto-React/static/media/detalles.4db1272c.jpg",
+    "static/media/galletasPolvorosas.a65439e9.jpg": "/RogerValiente/Proyecto-React/static/media/galletasPolvorosas.a65439e9.jpg",
+    "static/media/galletasTemáticas.5c5a7995.jpg": "/RogerValiente/Proyecto-React/static/media/galletasTemáticas.5c5a7995.jpg",
+    "static/media/logo.7e399cc0.png": "/RogerValiente/Proyecto-React/static/media/logo.7e399cc0.png",
+    "static/media/pavlova.797e0292.jpg": "/RogerValiente/Proyecto-React/static/media/pavlova.797e0292.jpg",
+    "static/media/torta.bf95d443.jpg": "/RogerValiente/Proyecto-React/static/media/torta.bf95d443.jpg",
+    "static/media/tortaDeshidratada.988543ff.jpg": "/RogerValiente/Proyecto-React/static/media/tortaDeshidratada.988543ff.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0a174f.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c5567300.chunk.js",
+    "static/css/main.e977522a.chunk.css",
+    "static/js/main.6ecd64d9.chunk.js"
+  ]
+}
